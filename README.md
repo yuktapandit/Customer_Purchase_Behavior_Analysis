@@ -141,6 +141,12 @@
       
       - Open Customer_Purchase_Behavior_Dashboard.pbix for interactive visualization.
 
+🧩 Project Presentation
+
+  You can view the full presentation here:
+  
+  👉 [View Project Presentation (PPT)](https://customer-purchase-behavi-2xpjpp3.gamma.site/)
+
 🏁 Conclusion
 
   This project demonstrates an end-to-end data analytics workflow — from data cleaning and exploratory analysis in Python to SQL-based insights and Power BI visualization.
