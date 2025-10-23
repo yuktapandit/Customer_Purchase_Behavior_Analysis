@@ -23,13 +23,13 @@ This project analyzes customer shopping behavior using transactional data from 3
 
 🧰 Tools & Technologies
 
-    - Python – Data loading, cleaning, and EDA (Pandas, NumPy, Matplotlib)
+  * Python – Data loading, cleaning, and EDA (Pandas, NumPy, Matplotlib)
         
-    - MySQL – SQL queries for structured data analysis
+  * MySQL – SQL queries for structured data analysis
         
-    - Power BI – Dashboard creation and visualization
+  * Power BI – Dashboard creation and visualization
         
-    - Jupyter Notebook – Code execution and documentation
+  * Jupyter Notebook – Code execution and documentation
 
 🔍 Steps Performed
   1. Data Preparation & Cleaning
