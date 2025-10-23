@@ -109,6 +109,12 @@
   
   - Discounts effectively boost sales but require profit margin monitoring.
 
+🖼️ Dashboard Preview  
+
+Below is a snapshot of the **Customer Behavior Dashboard** summarizing key insights:
+
+<p align="center"> <img src="8d4ae3af-22d8-49ac-bbab-980c89d3ed40.png" alt="Customer Behavior Dashboard" width="80%" style="border-radius: 12px; box-shadow: 0 0 10px rgba(0,0,0,0.1);"> </p>
+
 ⚙️ How to Run
 
   1. Clone the repository:
