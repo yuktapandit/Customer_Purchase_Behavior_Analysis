@@ -3,8 +3,7 @@
 
 📘 Overview
 
-    This project analyzes customer shopping behavior using transactional data from 3,900 purchases across various product categories.
-    The objective is to identify key insights into spending patterns, customer segments, product preferences, and subscription behavior to support data-driven business strategies and improve decision-making.
+This project analyzes customer shopping behavior using transactional data from 3,900 purchases across various product categories. The objective is to identify key insights into spending patterns, customer segments, product preferences, and subscription behavior to support data-driven business strategies and improve decision-making.
 
 🧾 Dataset
 
@@ -24,13 +23,13 @@
 
 🧰 Tools & Technologies
 
-    Python – Data loading, cleaning, and EDA (Pandas, NumPy, Matplotlib)
-    
-    MySQL – SQL queries for structured data analysis
-    
-    Power BI – Dashboard creation and visualization
-    
-    Jupyter Notebook – Code execution and documentation
+    - Python – Data loading, cleaning, and EDA (Pandas, NumPy, Matplotlib)
+        
+    - MySQL – SQL queries for structured data analysis
+        
+    - Power BI – Dashboard creation and visualization
+        
+    - Jupyter Notebook – Code execution and documentation
 
 🔍 Steps Performed
   1. Data Preparation & Cleaning
